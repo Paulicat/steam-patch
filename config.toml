@@ -2,8 +2,8 @@
 main_enabled = true
 tdp_control = true
 gpu_control = true
-max_tdp = 30               #If using smokeless bios you can push this higher
-max_gpu = 2700
+max_tdp = 28               #If using smokeless bios you can push this higher
+max_gpu = 2200
 
 #Feature toggles
 legacy_tdp = false         #true = ryzenadj, false = ACPI ROG ALLY METHOD
